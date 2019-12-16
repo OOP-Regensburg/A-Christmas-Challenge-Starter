@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="GraphicsApp-v1.3">
+  <library name="GraphicsApp">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/GraphicsApp-v1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/GraphicsApp.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

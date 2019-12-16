@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exercise-GraphicsApp-Base.iml" filepath="$PROJECT_DIR$/Exercise-GraphicsApp-Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChristmasChallenge.iml" filepath="$PROJECT_DIR$/ChristmasChallenge.iml" />
     </modules>
   </component>
 </project>
